@@ -83,6 +83,10 @@
   opacity: .75;
 }
 
+.main__img .current-floor {
+  opacity: .75;
+}
+
 .main__wrapper {
   display: -webkit-box;
   display: -ms-flexbox;
